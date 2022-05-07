@@ -1,0 +1,15 @@
+.banner-bg {
+  background-image: url(../../images/banner.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.banner-overlay {
+  background-color: rgba(0, 0, 0, 0.37);
+  color: #fff;
+  padding: 200px 400px;
+}
+.banner-heading {
+  padding: 50px;
+}

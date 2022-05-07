@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Playball&display=swap");
+
+.page-headings {
+  font-family: "Playball", cursive;
+  font-size: 30px;
+  font-weight: 600;
+  color: darkviolet;
+  margin-top: 40px;
+  padding: 70px 0;
+}

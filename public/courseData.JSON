@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "The Complete Front-End Web Development Course",
+    "img": "https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1",
+    "courseFee": "1499",
+    "desc": "lorem"
+  },
+  {
+    "id": "2",
+    "name": "Complete Linux Mastery Course",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/618a50c40cf275787411b2b6/618a50c40cf275787411b2b6_scaled_cover.jpg?v=1",
+    "courseFee": "999"
+  },
+  {
+    "id": "3",
+    "name": "Digital Marketing Strategy of Different Businesses",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5e71c52a0cf23d01252bde92/5e71c52a0cf23d01252bde92_scaled_cover.jpg?v=1",
+    "courseFee": "0"
+  },
+  {
+    "id": "4",
+    "name": "Data Structures and Algorithms (DSA) In Python",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/612c9e860cf2b183bad3c610/612c9e860cf2b183bad3c610_scaled_cover.jpg?v=1",
+    "courseFee": "999"
+  },
+  {
+    "id": "5",
+    "name": "Interview Preparation for Hackers",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6163fbc00cf2af826b705454/6163fbc00cf2af826b705454_scaled_cover.jpg?v=2",
+    "courseFee": "99"
+  },
+  {
+    "id": "6",
+    "name": "Complete ReactJS Course: Beginner to Advance with 10 projects",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/60179b3f0cf2ab0d7162b210/60179b3f0cf2ab0d7162b210_scaled_cover.jpg?v=1",
+    "courseFee": "1499"
+  },
+  {
+    "id": "7",
+    "name": "App Store Optimization (ASO) | App Store Marketing",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5e71b4320cf202f8dc170bfc/5e71b4320cf202f8dc170bfc_scaled_cover.jpg?v=1",
+    "courseFee": "0"
+  },
+  {
+    "id": "8",
+    "name": "All about Mastery in C Programming Course",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5e8591d60cf24949dec2c88f/5e8591d60cf24949dec2c88f_scaled_cover.jpg?v=1",
+    "courseFee": "249"
+  },
+  {
+    "id": "9",
+    "name": "Java In-Depth: Become a Complete Java Engineer!",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5e81b1820cf260492a44a8ec/5e81b1820cf260492a44a8ec_scaled_cover.jpg?v=1",
+    "courseFee": "499"
+  },
+  {
+    "id": "10",
+    "name": "C++ Programming - From Beginner to Beyond",
+    "img": "https://courses.wscubetech.com/s/store/courses/5f5338c60cf2d7d974471146/cover.jpg?v=1",
+    "courseFee": "299"
+  },
+  {
+    "id": "11",
+    "name": "Bootstrap 4 From Scratch With 4 Projects",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/5efdf2d40cf2d756a1b14e06/5efdf2d40cf2d756a1b14e06_scaled_cover.jpg?v=2",
+    "courseFee": "999"
+  },
+  {
+    "id": "12",
+    "name": "Learn Manual Software Testing with Live Project",
+    "img": "https://dz8fbjd9gwp2s.cloudfront.net/courses/612cc4e40cf2446a4131d1f3/612cc4e40cf2446a4131d1f3_scaled_cover.jpg?v=1",
+    "courseFee": "999"
+  }
+]

@@ -1,0 +1,9 @@
+.courses {
+  /* background-image: url("https://img.freepik.com/free-vector/abstract-binary-code-green-background-matrix-style-vector-illustration_1182-2199.jpg?w=740"); */
+  background-image: url("https://img.freepik.com/free-vector/big-data-concept-vector-illustration_1182-2273.jpg?t=st=1650782346~exp=1650782946~hmac=b7934f0b690e2456f8dd4ed96f384e76fa89d4cfbb992c14d0460e2b0d067859&w=740");
+  /* background-image: url("https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=900&t=st=1650782118~exp=1650782718~hmac=022e14b63180e7887c5d3d02e653feb2914a54a4690ae19d7d6164aed2ab15f2"); */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

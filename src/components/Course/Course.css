@@ -1,0 +1,16 @@
+.text-left {
+  text-align: left;
+  background-color: cornsilk;
+}
+.card-body {
+  height: 112px;
+}
+.btn-regular {
+  background-color: darkviolet;
+  border: 1px solid darkviolet;
+}
+.btn-regular:hover {
+  background-color: aliceblue;
+  color: darkviolet;
+  border: 1px solid darkviolet;
+}
