@@ -5,14 +5,14 @@ import Register from "../Register/Register";
 
 const LoginRegister = () => {
   return (
-    <div className=" pb-5 bg-dark">
+    <div className=" pb-5 bg-dark  bg-gradient border-bottom-5 border border-light">
       <h1
         style={{ textShadow: "0 0 3px #FFF, 0 0 5px white" }}
         className="text-center page-headings mt-0  fs-1"
       >
         Login Register
       </h1>
-      <Container className="mb-5">
+      <Container className="mb-5 pb-5">
         <Row xs={1} md={2} className="g-5">
           <Col>
             <Card>

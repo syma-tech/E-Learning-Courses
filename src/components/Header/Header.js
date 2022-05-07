@@ -18,7 +18,7 @@ const Header = () => {
   };
   // navbar css here
   return (
-    <Navbar bg="light " className="sticky-top" expand="lg">
+    <Navbar bg="light " className="sticky-top  z-index-9 shadow-lg" expand="lg">
       <Container>
         <Navbar.Brand href="#" id="logo">
           E-Learning courses
